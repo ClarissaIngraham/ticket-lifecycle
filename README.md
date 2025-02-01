@@ -34,14 +34,15 @@ In the example below you will see that we are in the agent portal and Karen has 
 ![image](https://github.com/user-attachments/assets/92d2d979-ba56-4a9e-b100-8973df92983e)
 </p>
 <p>
-Now we will be adjusting the ticket's SLA Plan and who/where is going to be assigned to.
-</p>
+Now we will be adjusting the ticket's SLA Plan and who/where the ticket is going to be assgined. 
+  
+In the example below, we will be undating the SLA Plan to Sev-1 and reassigning the ticket to an agent on the online banking team.
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/25d0a18f-91b2-4f89-a5c6-2ad45963a874)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
+
+![image](https://github.com/user-attachments/assets/6f0949db-9dbe-459f-afb1-8beb46ba7479)
+  
